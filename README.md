@@ -13,11 +13,12 @@ A modern React application that generates random **HEX** and **RGB** colors with
 
 ### HEX Color Mode
 
-![HEX Mode](./assets/hex.png)
+![HEX Mode](./src/assets/hex.png)
+
 
 ### RGB Color Mode
 
-![RGB Mode](./assets/rgb.png)
+![RGB Mode](./src/assets/rgb.png)
 ---
 
 ## ✨ Features
