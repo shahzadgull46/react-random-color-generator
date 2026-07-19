@@ -6,6 +6,8 @@ A modern React application that generates random **HEX** and **RGB** colors with
 
 ## 🚀 Live Demo
 
+**Live Website:** https://react-random-color-generator-wheat.vercel.app
+
 
 ## 📸 Preview
 
